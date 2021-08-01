@@ -15,19 +15,20 @@ const useSiteMetadata = () => {
                 facebook
                 linkedin
                 github
+                medium
+                email
+                youtube
                 twitter
                 telegram
                 instagram
-                email
                 rss
                 vkontakte
                 line
                 gitlab
                 weibo
                 codepen
-                youtube
                 soundcloud
-                medium
+               
               }
             }
             menu {

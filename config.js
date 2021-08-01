@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by Lakshitha Wisumperuma',
-  subtitle: 'Little bit of everything, every now and then. From moment and retrospect',
+  title: 'Blog by Lakshitha',
+  subtitle: 'From moment and retrospect. Little bit of everything, every now and then.',
   copyright: '© All rights reserved.',
   disqusShortname: 'lashewi',
   postsPerPage: 4,
@@ -18,16 +18,12 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
     name: 'Lakshitha Wisumperuma',
     photo: '/lakshitha.png',
-    bio: 'Little bit of everything, every now and then. From moment and retrospect',
+    bio: 'From moment and retrospect. Little bit of everything, every now and then. ',
     contacts: {
       email: 'swisum@gmail.com',
       facebook: '',
